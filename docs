@@ -1,0 +1,10 @@
+1. make a main folder
+2. in terminal run npm init
+3. make index.js is main file
+4. in package.json -> edit script => "start":"node index.js" => then in terminal run npm start 
+5. npm i express
+6. make a express app  
+7. npm i dotenv
+8. require('dotenv').config() => to use .env variables in app code
+9. define variable in .env file
+10. use .env variable in app code => process.env.var_name in app code 
